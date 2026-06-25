@@ -7,7 +7,7 @@
 
 const char* ssid = "ArmanHidayat";        
 const char* password = "123ahjk"; 
-const char* mqtt_server = "1.3456.76.88";
+const char* mqtt_server = "10.77.15.79";
 
 #define I2C_SDA 21
 #define I2C_SCL 22
